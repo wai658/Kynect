@@ -26,10 +26,10 @@ Built with a focus on simplicity and usability, Kynect ensures that managing you
 
 - **Name**: Wai Morales  
 - **Email**: wai658morales@outlook.com  
-Website: Kynect
+- **Website**: Kynect
 
-*Master in Software Engineering, passionate about creating efficient and scalable web applications.*  
-*Known for helping nature and deep knowledge in modern web technologies.*  
+- *Master in Software Engineering, passionate about creating efficient and scalable web applications.*  
+- *Known for helping nature and deep knowledge in modern web technologies.*  
 
 ## Getting Started
 
