@@ -16,11 +16,11 @@ Built with a focus on simplicity and usability, Kynect ensures that managing you
 
 ## Technologies Used
 
-- **React.js:** Frontend development.
-- **Node.js:** Backend services.
-- **CSS3:** Styling and layout.
-- **HTML5:** Markup language.
-- **Webpack:** Module bundler.
+- **React.js:** A JavaScript library for building dynamic user interfaces with reusable components, providing a responsive and efficient frontend experience.
+- **Node.js:** A runtime environment for executing JavaScript on the server side, enabling scalable backend services with non-blocking I/O.
+- **CSS3:** The latest version of CSS used for styling and layout, offering advanced features like animations and responsive design.
+- **HTML5:** The current version of HTML, providing enhanced elements and APIs for structuring and presenting content on the web.
+- **Webpack:** A module bundler that compiles JavaScript and other assets into a single bundle, optimizing the code for faster load times and better performance.
 
 ## Author
 
